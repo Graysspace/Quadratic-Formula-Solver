@@ -1,0 +1,28 @@
+html{
+    background-color: blueviolet;
+}
+
+body{
+    background-color: rgb(255,255,255,0.7);
+    width: 600ps;
+    padding: 25px 100px;
+    margin: 25px auto;
+    border-radius: 25px;
+}
+
+h1, h2{
+    font-family:'Times New Roman', Times, serif;
+    color: crimson;
+}
+
+p {
+    color:darkcyan;
+}
+
+#button-output {
+    background-color:darkgoldenrod;
+    color: crimson;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 7px;
+}
